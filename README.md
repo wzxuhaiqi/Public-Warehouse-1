@@ -1,3 +1,4 @@
 # Public-Warehouse-1
-This reponsitory,my first public warehouse is used for storing my files.‌No one other than me can submit, and only those I authorize can download the repository contents.
-First branch is named "cpp",it is about my own programs.
+This repository is my first public code repository, used for storing all kinds of my files. No one other than myself has the right to submit content. Only personnel authorized by me are permitted to download the files inside the repository.
+
+The first branch is named cpp, which mainly stores programs written by myself.
